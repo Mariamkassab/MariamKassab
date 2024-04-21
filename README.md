@@ -1,10 +1,12 @@
-# Hi there 👋, I am Mariam Soliman Kassab
-## 💫 Passionate DevOps Engineer
+<h1 align="center"> Hi there, I am Mariam Soliman Kassab <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" height="40"></img> </h1> 
+
+<h2 align="center"> 💫 Passionate DevOps Engineer </h2>
 
 ### I am certified:   [CKA](https://www.credly.com/badges/feee5c82-9163-430f-8754-6428be525356/public_url) , [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f6494659-8fc6-44cc-bb80-a62d9d0268af/public_url)
 
-### I have experience with tools:
-
+---
+<h3 align="center"> 💻 Languages and Tools:</h3>
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
 **Mariamkassab/MariamKassab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
