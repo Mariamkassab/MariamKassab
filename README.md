@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hi there 👋, I am Mariam Soliman Kassab
+## 💫 Passionate DevOps Engineer
 
-<!--
+### I am certified:   [CKA](https://www.credly.com/badges/feee5c82-9163-430f-8754-6428be525356/public_url) , [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f6494659-8fc6-44cc-bb80-a62d9d0268af/public_url)
+
+### I have experience with tools:
+
+
 **Mariamkassab/MariamKassab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
